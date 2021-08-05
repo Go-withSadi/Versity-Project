@@ -1,0 +1,69 @@
+{
+  "users": [
+    
+    {
+      "email": "sadi@test.com",
+      "name": "sadi",
+      "password": "sadi@123",
+      "id": 1
+    },
+    {
+      "email": "alex@test.com",
+      "name": "alex",
+      "password": "alex@123",
+      "id": 2
+    },
+    {
+      "email": "cook@test.com",
+      "name": "cook",
+      "password": "cook@123",
+      "id": 3
+    },
+    
+    {
+      "email": "john@test.com",
+      "name": "john",
+      "password": "john@123",
+      "id": 4
+    },
+    {
+      "email": "sam@test.com",
+      "name": "sam",
+      "password": "sam@123",
+      "id": 5
+    },
+    {
+      "email": "peter@test.com",
+      "name": "peter",
+      "password": "peter@123",
+      "id": 6
+    }
+    
+  ],
+  "restaurant":[
+    {
+      "id":1,
+      "name":"KFC",
+      "address":"Khulna",
+      "contact":111
+    },
+    {
+      "id":2,
+      "name":"Burger King",
+      "address":"Khulna",
+      "contact":2222
+    },
+    {
+      "id":3,
+      "name":"American Chicken",
+      "address":"Khulna",
+      "contact":3333
+    },
+    {
+      "id":4,
+      "name":"Fine Tune",
+      "address":"Khulna",
+      "contact":444
+    }
+  ]
+}
